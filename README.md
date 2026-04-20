@@ -4,7 +4,7 @@
 Originally conceived as an R Shiny app, the project now utilizes Python and Streamlit to provide a robust, scalable environment for propensity score matching on chemotherapy cohorts.
 
 ## Current Status: Phase 1 Complete
-The application is fully Dockerized and can be locally. This establishes the prerequisite for serverless deployment and Kubernetes orchestration.
+The application is fully Dockerized and can be run locally. This establishes the prerequisite for serverless deployment and Kubernetes orchestration.
 
 ## Technical Stack
 * Language: Python 3.9
